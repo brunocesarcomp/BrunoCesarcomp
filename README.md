@@ -5,8 +5,9 @@
 - 📊 Estudando Engenharia de Dados: pipelines, ingestão e transformação de dados
 - 🚀 Construindo projetos com Python, e PostgreSQL
 - ⚙️ Ferramentas: Python, PostgreSQL, Git
+- 📫 Contato: brunocesarcomp@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunocesarcomp) · brunocesarcomp@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunocesarcomp)
 
 ---
 
