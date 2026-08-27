@@ -1,7 +1,8 @@
 # Olá, eu sou o Bruno
 
 - 📚 Estudante de Engenharia de Computação com Inteligência Artificial Aplicada na Universidade Federal de Uberlândia
-- 💻 Foco em Engenharia de Software / Dados: APIs, back-end em Python e modelagem de dados em SQL
+- 💻 Foco em Engenharia de Software: APIs, back-end em Python e modelagem de dados em SQL
+- 📊 Estudando Engenharia de Dados: pipelines, ingestão e transformação de dados
 - 🚀 Construindo projetos com Python, e PostgreSQL
 - ⚙️ Ferramentas: Python, PostgreSQL, Git
 
@@ -14,4 +15,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="Python"/>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" alt="C"/>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" alt="Git"/>&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="60" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" height="60" alt="GitHub"/>
