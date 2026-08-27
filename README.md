@@ -15,4 +15,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="60" alt="VS Code"/>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" alt="Git"/>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" alt="C"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/8b949e" height="60" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/8957e5" height="60" alt="GitHub"/>
