@@ -6,7 +6,7 @@
 - 🚀 Construindo projetos com Python, e PostgreSQL
 - ⚙️ Ferramentas: Python, PostgreSQL, Git
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunocesarcomp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunocesarcomp) · brunocesarcomp@gmail.com
 
 ---
 
