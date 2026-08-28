@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno
 
-- 🧑‍🎓 Estudante de Engenharia de Computação com Inteligência Artificial Aplicada na Universidade Federal de Uberlândia
+- 🧑‍🎓 Cursando Engenharia de Computação com Inteligência Artificial Aplicada na Universidade Federal de Uberlândia
 - 💻 Foco em Engenharia de Software: APIs, back-end em Python e modelagem de dados em SQL
 - 📚 Estudando Engenharia de Dados: pipelines, ingestão e transformação de dados
 - 🚀 Construindo projetos com Python e PostgreSQL
