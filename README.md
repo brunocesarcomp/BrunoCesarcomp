@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno
+# Olá, eu sou o Bruno César
 
 - 🧑‍🎓 Cursando Engenharia de Computação com Inteligência Artificial Aplicada | Universidade Federal de Uberlândia (UFU)
 - 💻 Foco em Engenharia de Software: APIs, back-end em Python e modelagem de dados em SQL
