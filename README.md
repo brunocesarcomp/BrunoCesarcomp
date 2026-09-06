@@ -2,8 +2,7 @@
 
 - 🎓 Engenharia de Computação -  UFU (Universidade Federal de Uberlândia)
 - 💻 Foco em Engenharia de Software: APIs, back-end em Python e modelagem de dados em SQL
-- 📚 Estudando Engenharia de Dados: pipelines, ingestão e transformação de dados
-- 🚀 Construindo projetos com Python e PostgreSQL
+- 🚀 Construindo projetos com Python
 - ⚙️ Ferramentas: Python, PostgreSQL, Git, FastAPI e Docker
 - 📫 Contato: brunocesarcomp@gmail.com
 
