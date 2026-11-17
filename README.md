@@ -1,9 +1,9 @@
 # Olá, eu sou o Bruno César
 
-- 🎓 Engenharia de Computação -  UFU (Universidade Federal de Uberlândia)
-- 💻 Foco em Engenharia de Software: APIs, back-end em Python e modelagem de dados em SQL
+- 🎓 Engenharia de Computação com Inteligência Artificial Aplicada -  UFU (Universidade Federal de Uberlândia)
+- 💻 Foco em Engenharia de Software e Engenharia de IA: APIs, Machine Learning, back-end em Python e modelagem de dados em SQL
 - 🚀 Construindo projetos com Python
-- ⚙️ Ferramentas: Python, PostgreSQL, Git, FastAPI e Docker
+- ⚙️ Ferramentas: Python, PostgreSQL, Git, FastAPI, Hugging Face e Docker
 - 📫 Contato: brunocesarcomp@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunocesarcomp)
